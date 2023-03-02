@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDbManager", "AzureCosmosDbManager\AzureCosmosDbManager.csproj", "{165D7918-DA0F-4623-8374-3E0315BAF482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosDbManager.ApiTest", "AzureCosmosDbManager.ApiTest\AzureCosmosDbManager.ApiTest.csproj", "{8B59231A-E437-4557-84A7-5DD235846732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{165D7918-DA0F-4623-8374-3E0315BAF482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165D7918-DA0F-4623-8374-3E0315BAF482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165D7918-DA0F-4623-8374-3E0315BAF482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165D7918-DA0F-4623-8374-3E0315BAF482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B59231A-E437-4557-84A7-5DD235846732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B59231A-E437-4557-84A7-5DD235846732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B59231A-E437-4557-84A7-5DD235846732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B59231A-E437-4557-84A7-5DD235846732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BFB3DD8-B245-4339-AAF0-0502D755F823}
+	EndGlobalSection
+EndGlobal
