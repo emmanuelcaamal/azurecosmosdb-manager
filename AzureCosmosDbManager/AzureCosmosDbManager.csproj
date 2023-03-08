@@ -3,11 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Description>Abstrae logica de administración de contenedores de AzureCosmosDb</Description>
-    <PackageTags>DbManager; AzureCosmoDb</PackageTags>
-	  <PackageVersion>1.0.0.9</PackageVersion>
-	  <AssemblyVersion>1.0.0.4</AssemblyVersion>
-	  <FileVersion>1.0.0.4</FileVersion>
+    <Description>Abstrae logica de administración de contenedores y facilita realizar trasacciones en una base de datos AzureCosmosDb</Description>
+    <PackageTags>CostmosDbManager; AzureCosmoDb</PackageTags>
+	  <PackageVersion>1.0.0.1</PackageVersion>
+	  <AssemblyVersion>1.0.0.1</AssemblyVersion>
+	  <FileVersion>1.0.0.1</FileVersion>
 	  <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
